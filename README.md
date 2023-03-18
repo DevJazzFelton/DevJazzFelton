@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Jazz
+#### I am Full Stack Software Engineer
+![I am Full Stack Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**DevJazzFelton/DevJazzFelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), and GraphQL.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / Javascript / React / React Native / Node / MongoDB / PostgreSQL / OOP / Web Accessibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
